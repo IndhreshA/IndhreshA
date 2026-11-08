@@ -1,6 +1,6 @@
 # Indhresh Achi
 
-**MS Data Science @ Texas A&M** · Statistics Track (Fall 2026)  
+**MS Data Science @ Texas A&M** · Statistics Track (Dec 2027)
 B.S. Business Analytics & AI — UT Dallas, Magna Cum Laude · GPA 3.85
 
 Quantitative problems. Business answers.
@@ -23,7 +23,15 @@ actionable for business decisions. Client experience includes Kimberly-Clark
 
 ## Featured Projects
 
-**[Analytics Projects](https://github.com/IndhreshA/analytics-projects)**  
+**[SmartCommerce Analytics System](https://github.com/IndhreshA/smartcommerce-analytics)**  
+Multi-agent AI workflow (Claude + 7 Python skills) that turns 1.4k+ Amazon
+product records into customer insights, charts, and a prioritized business strategy.
+
+**[Telecom Churn Prediction](https://github.com/IndhreshA/telecom-churn-prediction)**  
+Churn classification with KNN, Decision Tree, Random Forest, and Logistic Regression;
+diagnosed a misleading 73% accuracy and rebalanced models to lift churn recall from 0% to 47%.
+
+**[Applied Analytics](https://github.com/IndhreshA/applied-analytics)**  
 Applied ML across business and economic domains — churn prediction,
 pricing models, inflation analysis, NLP, and market research.
 
