@@ -1,6 +1,6 @@
 # Indhresh Achi
 
-**MS Data Science @ Texas A&M** · Statistics Track (Dec 2027)
+**MS Data Science @ Texas A&M** · Statistics Track (Dec 2027) 
 B.S. Business Analytics & AI — UT Dallas, Magna Cum Laude · GPA 3.85
 
 Quantitative problems. Business answers.
